@@ -28,4 +28,3 @@ This project contains a bot that connects to a Tron-style snake game server and 
 
 - `connect.py` - GameClient class for connecting to the server
 - `play.py` - Simple example bot that always moves up
-- `mySnek.py` - Advanced bot with collision avoidance logic
